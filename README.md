@@ -1,3 +1,4 @@
+![Screenshot_٢٠٢٥-٠٥-١٤-١٨-١٠-٣١-٤٣٢_com teejay trebedit](https://github.com/user-attachments/assets/a2c00a3d-3184-4bc0-9643-874399638504)
 # Permissions Policy (previously named Feature Policy)
 
 A web platform API which gives a website the ability to allow and deny the use of browser features in its own frame, and in iframes that it embeds. Examples of [features](https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md) that could be controlled by permissions policy include:
